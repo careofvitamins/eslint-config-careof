@@ -1,0 +1,52 @@
+{
+  "name": "eslint-config-careof",
+  "version": "1.0.0",
+  "description": "Care/Of's shared ESLint Config",
+  "main": "index.js",
+  "scripts": {
+    "lint": "eslint ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/careofvitamins/eslint-config-careof.git"
+  },
+  "keywords": [
+    "eslint",
+    "eslintconfig",
+    "eslint-careof",
+    "careof"
+  ],
+  "author": "Matt DuLeone <matt@duleone.com>",
+  "contributors": [
+    {
+      "name": "Brian Davis",
+      "email": "davis.brian.c@gmail.com"
+    },
+    {
+      "name": "Matt DuLeone",
+      "email": "matt@duleone.com",
+      "url": "https://matt.dule.one"
+    },
+    {
+      "name": "Melissa Huang",
+      "email": "melissa.codes@gmail.com"
+    }
+  ],
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/careofvitamins/eslint-config-careof/issues"
+  },
+  "homepage": "https://github.com/careofvitamins/eslint-config-careof#readme",
+  "dependencies": {
+    "eslint": "^6.4.0",
+    "eslint-config-airbnb": "^18.0.1",
+    "eslint-plugin-jest": "^22.17.0",
+    "eslint-plugin-security": "^1.4.0"
+  },
+  "devDependencies": {
+    "eslint-plugin-import": "^2.18.2",
+    "eslint-plugin-jsx-a11y": "^6.2.3",
+    "eslint-plugin-react": "^7.14.3",
+    "eslint-plugin-react-hooks": "^2.0.1"
+  }
+}

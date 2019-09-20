@@ -59,3 +59,27 @@ typings/
 
 # next.js build output
 .next
+
+# OSX files
+.DS_Store
+.AppleDouble
+.LSOverride
+Icon
+._*
+.Spotlight-V100
+.Trashes
+npm-debug.log*
+
+# IntelliJ files
+*.iml
+*.ipr
+*.iws
+.idea/
+out/
+
+# VSCode files
+.vscode
+
+# Lock files
+yarn.lock
+package-lock.json
