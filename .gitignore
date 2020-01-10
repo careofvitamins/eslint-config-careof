@@ -79,7 +79,3 @@ out/
 
 # VSCode files
 .vscode
-
-# Lock files
-yarn.lock
-package-lock.json
