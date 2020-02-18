@@ -112,5 +112,11 @@ module.exports = {
     'react/jsx-key': 'error', // airbnb doesn't check this, we prefer to
     'react/no-direct-mutation-state': 'error', // airbnb doesn't check this, we prefer to
     'react/jsx-filename-extension': 'off', // airbnb enforces jsx in only .jsx files, we prefer to allow it in .js files
+    'react/jsx-props-no-spreading': [
+      'error',
+      {
+        explicitSpread: 'ignore',
+      },
+    ],
   },
 };
