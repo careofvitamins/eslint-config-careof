@@ -3,6 +3,12 @@
   "version": "2.0.0",
   "description": "Care/Of's shared ESLint Config",
   "main": "index.js",
+  "files": [
+    "package.json",
+    "index.js",
+    "README.md",
+    "LICENSE"
+  ],
   "scripts": {
     "lint": "eslint ."
   },
