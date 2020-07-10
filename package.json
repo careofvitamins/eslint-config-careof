@@ -7,9 +7,7 @@
     "package.json",
     "index.js",
     "README.md",
-    "LICENSE",
-    ".eslintrc",
-    ".editorconfig"
+    "LICENSE"
   ],
   "scripts": {
     "lint": "eslint ."
