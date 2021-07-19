@@ -1,6 +1,6 @@
 {
   "name": "eslint-config-careof",
-  "version": "3.0.0",
+  "version": "3.0.1",
   "description": "Care/Of's shared ESLint Config",
   "main": "index.js",
   "files": [
