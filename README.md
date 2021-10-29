@@ -1,2 +1,2 @@
 # eslint-config-careof
-Care/of's shared ESLint Config
+Care/of's shared ESLint config
